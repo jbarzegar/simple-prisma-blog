@@ -24,7 +24,7 @@
     "rebass": "4.0.5",
     "typescript": "3.5.3",
     "typography": "0.16.19",
-    "wouter": "2.2.0"
+    "wouter": "2.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
